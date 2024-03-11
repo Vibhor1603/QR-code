@@ -1,0 +1,40 @@
+*{
+    background-color:hsl(227, 15%, 52%);
+    
+    
+
+}
+.center-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Adjust as needed */
+  }
+.attribution{
+    font-size: 15px;
+    font-weight: 700;
+    background-color: white;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    color: #7c7a7a;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    width:250px;
+    height:390px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+     
+}
+.attribution img{
+    width: 250px;
+    height: 250px;
+    margin: 0px;
+    border-radius: 10px;
+
+}
+.attribution p{
+    background-color: inherit;
+}
